@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/852584345998065704.png">
+  <img src="https://discord.c99.nl/widget/theme-3/852584345998065704.png">
 </p>
